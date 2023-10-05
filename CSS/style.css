@@ -55,7 +55,7 @@ body,html
 .hero{
     height: 90vh;
     /* background-color: #343A40; */
-    background: url('/IMG/hero-circle.svg'), #343A40;
+    background: url('http://192.168.1.13/Portfolio2023/IMG/hero-circle.svg'), #343A40;
     background-repeat: no-repeat;
     width: 100%;
     color: #CED4DA;
@@ -105,7 +105,7 @@ body,html
 
     /* HERO */
     .hero{
-        background: url('/IMG/hero-circle-phone.svg'), #343A40;
+        background: url('http://192.168.1.13/Portfolio2023/IMG/hero-circle-phone.svg'), #343A40;
     }
  }
 
