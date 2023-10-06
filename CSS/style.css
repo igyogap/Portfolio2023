@@ -57,7 +57,7 @@ body,html
     /* background-color: #343A40; */
     background: url('http://192.168.1.13/Portfolio2023/IMG/hero-circle.svg'), #343A40;
     background-repeat: no-repeat;
-    width: 100%;
+    /* width: 100%; */
     color: #CED4DA;
 }
 .typed-cursor{
